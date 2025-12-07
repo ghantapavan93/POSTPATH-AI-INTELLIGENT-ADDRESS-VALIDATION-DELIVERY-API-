@@ -6,16 +6,6 @@ You may keep or remove this comment. -->
 # PostPath AI — Intelligent Address Validation & Delivery Application Programming Interface (API) Platform (Prototype in Progress) | PROJECT LINK  
 **A full-stack, cloud-native, Artificial Intelligence (AI)-assisted address normalization, validation, and routing platform modeled after enterprise direct-mail and logistics systems—built for high-accuracy corrections, fault-tolerant microservices, exactly-once-style event processing goals, and operations-grade observability**
 
-<p align="center">
-  <img src="./docs/brand/postpath-logo.svg" alt="PostPath AI logo" width="170" />
-</p>
-
-<p align="center">
-  <img src="./docs/brand/postpath-favicon-32.png" width="18" alt="favicon 32" />
-  <img src="./docs/brand/postpath-favicon-48.png" width="18" alt="favicon 48" />
-  <img src="./docs/brand/postpath-favicon-96.png" width="18" alt="favicon 96" />
-</p>
-
 ![License](https://img.shields.io/badge/License-MIT-success)
 ![Status](https://img.shields.io/badge/Status-Open--Source%20Prototype%20In%20Progress-blue)
 ![Domain](https://img.shields.io/badge/Domain-Address%20Validation%20%7C%20Direct%20Mail%20%7C%20Logistics%20%7C%20Data%20Quality-0b7285)
